@@ -4,7 +4,7 @@ This is a simple ideas tracker Vite + React app
 
 ## Create the app
 
-- Create the react app using [`npm create`] command.
+- Create the react app using `npm create` command.
 
 ```bash
 npm create vite@latest -- --template react ideas-tracker && cd ideas-tracker
