@@ -15,3 +15,9 @@ npm create vite@latest -- --template react ideas-tracker && cd ideas-tracker
 ```bash
 npm install appwrite@14.0.1
 ```
+
+- You can start the development server to watch your app update in the browser as you make changes.
+
+```bash
+npm run dev -- --open --port 3000
+```
